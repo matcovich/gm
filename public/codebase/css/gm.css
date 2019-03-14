@@ -1,0 +1,48 @@
+body {
+    color: #575757;
+    background-color: #fff1ef;
+}
+.bg-gd-gm{
+    background: #ef5350;
+    background: linear-gradient(135deg, #6a2d2a 0%, #540002 100%) !important;
+}
+
+.bg-gm-form{
+    background-color: #6590c6 !important;
+}
+
+.block-sombraGM{
+    box-shadow: -6px 6px 9px 3px rgba(62, 62, 62, 0.41);
+}
+
+.bg-primary-lighter{background-color:#f3a8a0!important}
+
+.btn-dual-secondary.focus, .btn-dual-secondary:focus, .btn-dual-secondary:hover {
+    color: #1f1f1f;
+    background-color: #d3eafd;
+    border-color: #d3eafd;
+    box-shadow: none;
+}
+#side-overlay, #sidebar {
+    border-right: 1px solid;
+    background-color: #eeeeee;
+}
+#page-header {
+    border-bottom: 1px solid;
+    background-color: #f8f8f8;
+}
+
+.badge-primary {
+    color: #fff;
+    background-color: #42a5f5;
+}
+
+
+.patente{color: #010101;
+    background-color: #FFFFFF;
+    background-image: none;
+    border: #000000 solid 1px;
+    border-radius: 5px;
+    padding: 2px 8px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6);
+}
